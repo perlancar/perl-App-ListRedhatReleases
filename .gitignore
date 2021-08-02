@@ -2,3 +2,4 @@ App-ListRedhatReleases-*
 .build
 *~
 nytprof*
+.DS_Store
